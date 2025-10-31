@@ -88,12 +88,6 @@ Me especializo en **Data Science e IA aplicada a e-commerce y retail**. Incluso 
 
 ---
 
-## 📈 Analytics
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rocio-romera&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocio-romera&layout=compact&hide_title=true" />
-</p>
-
 ---
 
 ## 📬 Contacto
