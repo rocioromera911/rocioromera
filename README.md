@@ -25,32 +25,7 @@ Me especializo en **Data Science e IA aplicada a e-commerce y retail**. Incluso 
 
 ## 🚀 Proyectos destacados
 <table>
-  <tr>
-    <td width="33%">
-      <a href="https://github.com/rocio-romera/neo-factura">
-        <img src="assets/neo-banner.png" alt="NeoFactura" />
-        <h3>NeoFactura – OCR + CV para facturas</h3>
-      </a>
-      <p>Extracción y normalización de datos con <b>OpenCV + Tesseract</b> y API para análisis.</p>
-      <p><i>Python · OpenCV · Tesseract · FastAPI · Pandas</i></p>
-    </td>
-    <td width="33%">
-      <a href="https://github.com/rocio-romera/meli-automation">
-        <img src="assets/meli-banner.png" alt="Mercado Libre Automation" />
-        <h3>Mercado Libre Automation – Pricing, NLP, Demanda</h3>
-      </a>
-      <p>Automatización con APIs de Meli, clasificación de mensajes con <b>spaCy</b> y <b>forecast</b>.</p>
-      <p><i>Python · spaCy · scikit-learn · APIs · Pandas</i></p>
-    </td>
-    <td width="33%">
-      <a href="https://github.com/rocio-romera/retail-price-mining">
-        <img src="assets/price-banner.png" alt="Price Mining" />
-        <h3>Price Mining – Competencia retail</h3>
-      </a>
-      <p>Scraping con Playwright/Puppeteer + BS4 y análisis con Pandas.</p>
-      <p><i>Python · Playwright · Puppeteer · BeautifulSoup · Pandas</i></p>
-    </td>
-  </tr>
+
 
   <tr>
     <td width="33%">
