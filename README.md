@@ -30,7 +30,6 @@ Me especializo en **Data Science e IA aplicada a e-commerce y retail**. Incluso 
   <tr>
     <td width="33%">
       <a href="https://github.com/rocioromera911/API_MAPS_B2B">
-        <img src="assets/maps-banner.png" alt="API MAPS B2B" />
         <h3>API MAPS B2B – Extracción de contactos empresariales</h3>
       </a>
       <p>Automatización para obtener datos legales (emails, teléfonos) de empresas vía Google Maps API.</p>
@@ -38,7 +37,6 @@ Me especializo en **Data Science e IA aplicada a e-commerce y retail**. Incluso 
     </td>
     <td width="33%">
       <a href="https://github.com/rocioromera911/grabadora-rpa">
-        <img src="assets/rpa-banner.png" alt="Grabadora RPA" />
         <h3>Grabadora RPA – Automatización de procesos</h3>
       </a>
       <p>Script grabador de acciones para crear bots RPA sin código manual.</p>
@@ -57,7 +55,6 @@ Me especializo en **Data Science e IA aplicada a e-commerce y retail**. Incluso 
   <tr>
     <td width="33%">
       <a href="https://github.com/rocioromera911/Publicar_Marketplace">
-        <img src="assets/marketplace-banner.png" alt="Publicar Marketplace" />
         <h3>Publicar Marketplace – Automatización de publicaciones</h3>
       </a>
       <p>Automatiza carga masiva de productos en Marketplace y WhatsApp Business Catalog.</p>
