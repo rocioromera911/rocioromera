@@ -1,4 +1,4 @@
-# ¡Hola! Soy Rocío Belén Romera 👋
+# ¡Hola! Soy Rocío Belén Romera 
 
 **Data Scientist • Machine Learning • Computer Vision • RPA**  
 Córdoba, Argentina
